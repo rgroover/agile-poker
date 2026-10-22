@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+publish/
+.git/
+.agents/
+.codex/
+.aws/
+node_modules/
+test-results/
+tests/
+*.user
+*.suo
